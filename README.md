@@ -2,4 +2,16 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+Para la seccion de distribucion correr el
+
+```
+npm run build
+
+```
+
+y para la prueba el
+
+
+``` 
+npm start
+```
